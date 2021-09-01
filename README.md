@@ -29,6 +29,7 @@ Features
 Architectures
 ----
 
-![그림2](https://user-images.githubusercontent.com/55680343/116883193-48042080-ac60-11eb-8dd8-629cf802fb69.png)
+![Curtaincall_Arch](https://user-images.githubusercontent.com/55680343/131627054-ff97b785-3ad4-4356-a60c-93e89f39844b.png)
+
 
 
