@@ -18,7 +18,7 @@
     "@react-navigation/native": "5.7.1",
     "@react-navigation/stack": "5.7.1",
     "expo-ui-kit": "0.1.6",
-    "moment": "2.27.0",
+    "moment": "2.29.4",
     "moment-timezone": "0.5.31",
     "react": "16.13.1",
     "react-moment": "0.9.7",
